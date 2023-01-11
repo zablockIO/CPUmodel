@@ -31,7 +31,7 @@ Instruction set:
 | f      | bgt         | branch if greater than      | No          |
 
 ## Basic Pipeline
-![image](.assets/cpuPipeline.PNG)
+![Pipeline Block Diagram](.assets/cpuPipeline.PNG)
 
 ## Todo
 - Branch and jump instructions
